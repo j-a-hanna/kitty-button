@@ -14,5 +14,5 @@
 
     Git / GitHub for version control
 
-## kkkkkk✍️ Author
+## ✍️ Author
 Jeanette Attia Hanna
