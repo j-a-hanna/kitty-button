@@ -2,11 +2,11 @@
 
 ## 📸 Project Screenshot
 
-![Kitty Button Homepage](img/kitty-button.png)
+![Kitty Button Homepage](img/kitty-button-homepage.png)
 
 ## 📚 Learning
 
-    practice using HTML5 and CSS3 to make a responsive web page using flexbox
+    practice using HTML5 and CSS3 to make a web page with a button
 
 ## 💻 Technologies Used
 
